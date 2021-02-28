@@ -4,7 +4,7 @@
 
 Product Teaser: https://youtu.be/HjVrFjVK2Ok
 
-Product Live Demo: https://youtu.be/RABkzYig79Y
+Product Live Demo: https://youtu.be/j6veGvbbseE
 
 Product Working Link: https://kartikeya47.github.io/iPropel_AmongUsHack/
 
@@ -112,7 +112,7 @@ Product Working Link: https://kartikeya47.github.io/iPropel_AmongUsHack/
 
 Product Teaser: https://youtu.be/HjVrFjVK2Ok
 
-Product Live Demo: https://youtu.be/RABkzYig79Y
+Product Live Demo: https://youtu.be/j6veGvbbseE
 
 
 
