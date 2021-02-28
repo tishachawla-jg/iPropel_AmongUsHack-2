@@ -12,7 +12,7 @@ Product Working Link: https://kartikeya47.github.io/iPropel_AmongUsHack/
 
 
 
-![1](https://user-images.githubusercontent.com/77988385/109418707-dd303200-79ef-11eb-97a1-5daed7fa59fe.jpg)
+![](prodimg/1.jpg)
 
 
 
