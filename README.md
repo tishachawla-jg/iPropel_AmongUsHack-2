@@ -9,16 +9,11 @@ Product Live Demo: https://youtu.be/j6veGvbbseE
 Product Working Link: https://kartikeya47.github.io/iPropel_AmongUsHack/
 
 # **Key Features  of iPropel**#
-
 1)In the home page ,the workers(employee,students, etc) can view the upcoming  events ,deadlines  and submissions.
-
 2)People  working  in the organisation  can add their  deadlines  and schedule  in the task section  of our website.
-
 3)There is a personalized  dashboard  which will help  the employee/workers keep track of their progress.
-
 4) People who are interested  in working  in the organisation's project  can keep themselves  updated  through  the project  section of the website. 
-5) 
-6)Workers/Students enroll  themselves  in their interested  field of work  through  our customized  form.
+5)Workers/Students enroll  themselves  in their interested  field of work  through  our customized  form.
 
 
 
